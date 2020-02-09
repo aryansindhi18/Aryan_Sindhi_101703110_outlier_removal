@@ -11,7 +11,7 @@ setuptools.setup(
     description="A small package that removes outliers from a pandas dataframe",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/aryansindhi18/topsis_approach-aryansindhi18.git",
+    url="https://github.com/aryansindhi18/Aryan_Sindhi_101703110_outlier_removal",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
